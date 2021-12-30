@@ -3,6 +3,10 @@
 Repo sebelumnya :  <a href ="https://github.com/DolokMalau/Outsystems-Overview-to-Reactive-UI.git" target ="_blank">Repo Sebelumnya</a> <br>
 <br>
 :smile: ⏯️
+<a href ="https://youtu.be/0sMugzvBayc" target ="blank">Modelling Data</a><br>
+:smile: ⏯️
+<a href ="https://youtu.be/8zttUOLDqTg" target ="blank">Reactive UI Developer 101</a><br>
+:smile: ⏯️
 <a href ="https://youtu.be/KMXZ1SCgxFE" target ="_blank">Tutorial Logic</a><br>
 :smile: ⏯️
 <a href ="https://youtu.be/BHfrDvjCcQs" target ="_blank">Tutorial Aggregate</a><br>
